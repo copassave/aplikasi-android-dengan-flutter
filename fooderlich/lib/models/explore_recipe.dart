@@ -2,9 +2,9 @@ part 'ingredient.dart';
 part 'instruction.dart';
 
 class RecipeCardType {
-  static const String card1 = 'card1';
-  static const String card2 = 'card2';
-  static const String card3 = 'card3';
+  static const card1 = 'card1';
+  static const card2 = 'card2';
+  static const card3 = 'card3';
 }
 
 class ExploreRecipe {
