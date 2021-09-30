@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Raihan\\Documents\\Kuliah\\Aplikasi Android dengan Flutter\\aplikasi-android-dengan-flutter\\turunify\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Raihan\\.gradle\\caches\\transforms-2\\files-2.1\\92122df0879963db4a927cde31ef6bfe\\core-1.3.1\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

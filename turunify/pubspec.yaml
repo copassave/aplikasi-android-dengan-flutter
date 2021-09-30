@@ -1,0 +1,55 @@
+name: turunify
+description: aplikasi pelacak dan pencatat berat badan
+
+version: 0.0.1+8
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  hive: ^2.0.4
+  hive_flutter: ^1.0.0
+  shared_preferences: ^2.0.6
+
+  
+  equatable: ^2.0.0
+  intl: ^0.17.0
+  table_calendar: ^3.0.1
+  fl_chart: ^0.35.0
+  percent_indicator: ^2.1.7+2
+  url_launcher: ^6.0.6
+  package_info: ^2.0.0
+  page_transition: ^2.0.2
+  permission_handler: ^8.1.4+2
+  excel: 2.0.0-null-safety-3
+  share_plus: ^2.1.4
+
+  
+  bloc: ^7.0.0
+  flutter_bloc: ^7.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^1.1.0
+  build_runner: ^2.0.4
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/turunify.png"
+
+flutter:
+  assets:
+    - assets/turunify.png
+    - assets/turunify.png
+    - assets/turunify.png
+    - assets/turunify.png
+    - assets/turunify.png
+
+  uses-material-design: true
